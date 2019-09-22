@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="gbweb/src/assets/images/logo-purple.svg" alt="GoBarber" width="90">
+  <img src="gbweb/src/assets/logo-purple.svg" alt="GoBarber" width="90">
 <br>
 <br>
 GoBarber
